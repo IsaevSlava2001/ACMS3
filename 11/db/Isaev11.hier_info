@@ -1,0 +1,12 @@
+|Isaev11
+Y <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+B => inst5.IN0
+B => inst2.IN1
+D => inst5.IN1
+D => inst3.IN1
+D => inst4.IN1
+C => inst3.IN0
+A => inst2.IN0
+A => inst4.IN0
+
+

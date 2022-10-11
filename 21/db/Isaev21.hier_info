@@ -1,0 +1,27 @@
+|Isaev21
+F <= inst99.DB_MAX_OUTPUT_PORT_TYPE
+x1 => inst55.IN0
+x1 => inst16.IN0
+x1 => inst15.IN0
+x1 => inst17.IN0
+x1 => inst18.IN0
+x2 => inst9.IN0
+x2 => inst13.IN1
+x2 => inst14.IN1
+x2 => inst17.IN1
+x2 => inst18.IN1
+x3 => inst10.IN0
+x3 => inst12.IN2
+x3 => inst14.IN2
+x3 => inst16.IN2
+x3 => inst18.IN2
+D0 => inst19.IN1
+D2 => inst93.IN1
+D1 => inst20.IN1
+D3 => inst21.IN1
+D5 => inst23.IN1
+D4 => inst22.IN1
+D6 => inst24.IN1
+D7 => inst25.IN1
+
+
