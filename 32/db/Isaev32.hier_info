@@ -1,0 +1,14 @@
+|lab4
+a => _.IN1
+a => _.IN0
+b => _.IN1
+b => _.IN0
+b => _.IN1
+b => _.IN0
+c => state.IN1
+out[0] <= out[0].DB_MAX_OUTPUT_PORT_TYPE
+out[1] <= out[1].DB_MAX_OUTPUT_PORT_TYPE
+out[2] <= out[2].DB_MAX_OUTPUT_PORT_TYPE
+out[3] <= out[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

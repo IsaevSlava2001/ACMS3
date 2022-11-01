@@ -1,0 +1,8 @@
+SUBDESIGN 'Isaev32'
+(
+A,B,C,D: INPUT;
+Y: OUTPUT;
+)
+BEGIN
+Y=(((A AND B)OR(C AND D))AND (A AND D)) OR B AND D;
+END;
